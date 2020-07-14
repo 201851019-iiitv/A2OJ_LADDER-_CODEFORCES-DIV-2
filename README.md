@@ -34,3 +34,15 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |28.|[Fox And Snake](https://codeforces.com/problemset/problem/510/A   "Fox And Snake")| 800 | Greedy,Implementation| 1|[Fox And Snake](https://codeforces.com/contest/510/submission/86617967  "Solution")|C++|
 |29.|[ IQ test](https://codeforces.com/problemset/problem/25/A " IQ test")| 1300 | Brute Force| 3|[ IQ test](https://codeforces.com/contest/25/submission/78638435 "Solution")|C++|
 |30.|[Choosing Teams](https://codeforces.com/problemset/problem/432/A  "Choosing Teams")| 800 | Greedy,Sorting ,Implementation| 1|[Choosing Teams](https://codeforces.com/contest/432/submission/86618566  "Solution")|C++|
+|31.|[Cakeminator](https://codeforces.com/problemset/problem/330/A?f0a28=1  "Cakeminator")| 800 | Brute Force ,Implementation| 1|[Cakeminator](https://codeforces.com/contest/330/submission/86619603  "Solution")|C++|
+|32.|[Valera and Antique Items](https://codeforces.com/problemset/problem/441/A  "Valera and Antique Items")| 1000 | Implementation| 2|[Valera and Antique Items](https://codeforces.com/contest/441/submission/86621484  "Solution")|C++|
+|33.|[Appleman and Easy Task](https://codeforces.com/problemset/problem/462/A  "Appleman and Easy Task")| 1000 | Implementation| 2|Solution|C++|
+|34.|[Bear and Raspberry](https://codeforces.com/problemset/problem/385/A  "Bear and Raspberry")| 1000 | Implementation| 2|Solution|C++|
+|35.|[Lunch Rush](https://codeforces.com/problemset/problem/276/A "Lunch Rush")| 1000 | Implementation| 2|[Lunch Rush](https://codeforces.com/contest/276/submission/86813200  "Solution")|C++|
+|36.|[Laptops](https://codeforces.com/problemset/problem/456/A  "Laptops")| 1100 | Sorting ,Implementation| 3|[Laptops](https://codeforces.com/contest/456/submission/86815313  "Solution")|C++|
+|37.|[Soft Drinking](https://codeforces.com/problemset/problem/151/A  "Soft Drinking")| 800 | Implementation| 1|[Soft Drinking](https://codeforces.com/contest/151/submission/86816334  "Solution")|C++|
+|38.|[Playing with Dice](https://codeforces.com/problemset/problem/378/A  "Playing with Dice")| 800 | Brute Force| 1|[Playing with Dice](https://codeforces.com/contest/378/submission/86817126  "Solution")|C++|
+|39.|[Minimum Difficulty](https://codeforces.com/problemset/problem/496/A  "Minimum Difficulty")| 900 | Math,Implementation| 2|[Minimum Difficulty](https://codeforces.com/contest/496/submission/86819139  "Solution")|C++|
+|40.|[Greg's Workout](https://codeforces.com/problemset/problem/255/A  "Greg's Workout")| 800 | Implementation| 1|[Greg's Workout](https://codeforces.com/contest/255/submission/86819806  "Solution")|C++|
+|41.|[Counterexample](https://codeforces.com/problemset/problem/483/A  "Counterexample")| 1100 |Math, Implementation| 2|[Counterexample](https://codeforces.com/contest/483/submission/86821918  "Solution")|C++|
+|42.|[Valera and X](https://codeforces.com/problemset/problem/404/A  "Valera and X")| 1000 | Implementation| 2|Solution|C++|

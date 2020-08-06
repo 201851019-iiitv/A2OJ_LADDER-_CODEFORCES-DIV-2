@@ -1,5 +1,5 @@
 # Solution of A2OJ  Platform  Div 2 A  Codeforce Problems |
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/201851019-iiitv/A2OJ_LADDER-_CODEFORCES-DIV-2/master)
+ <img src= "https://visitor-badge.laobi.icu/badge?page_id=201851019-iiitv/A2OJ_LADDER-_CODEFORCES-DIV-2" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/201851019-iiitv/A2OJ_LADDER-_CODEFORCES-DIV-2/master)
 
 
 This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `platform using `java` and `c++` language;

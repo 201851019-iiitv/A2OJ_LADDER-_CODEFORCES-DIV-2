@@ -7,7 +7,7 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |Q.No| Question | Rating | Tags |Difficulty| Solution | Lang|
 |------|----------|-------|-----|----|-------|------|
 |1.|[Watermelon](https://codeforces.com/problemset/problem/4/A "Watermelon")| 800 | Math , Brute Force |  1 |[Watermelon](https://codeforces.com/contest/4/submission/86758167"Solution")| C++ |
-|2.|[Way Too Long Words](https://codeforces.com/problemset/problem/71/A "WTLW")| 800 | String| 1|[Way Too Long Words](https://codeforces.com/contest/71/submission/78622449 "Solution")|C++ |
+|2.|[Way Too Long Words](https://codeforces.com/problemset/problem/71/A "WTLW")| 800 | String| 1|[Way Too Long Words](https://codeforces.com/contest/71/submission/86758983"Solution")|C++ |
 |3.|[String Task](https://codeforces.com/problemset/problem/118/A "String Task")| 1000 | String,Implementation| 2|[String Task](https://codeforces.com/contest/118/submission/78622957 "Solution")|C++|
 |4.|[Petya and Strings](https://codeforces.com/problemset/problem/112/A  "Petya and Strings")| 800 | String,Implementation| 1|[Petya and Strings](https://codeforces.com/contest/112/submission/78624845  "Solution")|C++|
 |5.|[Helpful Maths](https://codeforces.com/problemset/problem/339/A   "Helpful Maths")| 800 | String,Implementation,Greedy,Sorting| 1|[Helpful Maths](https://codeforces.com/contest/339/submission/78625377   "Solution")|C++|

@@ -49,4 +49,5 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |41.|[Counterexample](https://codeforces.com/problemset/problem/483/A  "Counterexample")| 1100 |Math, Implementation| 2|[Counterexample](https://codeforces.com/contest/483/submission/86821918  "Solution")|C++|
 |42.|[Valera and X](https://codeforces.com/problemset/problem/404/A  "Valera and X")| 1000 | Implementation| 2|Solution|C++|
 |43.|[ Perfect Permutation](http://codeforces.com/problemset/problem/233/A  " Perfect Permutation")| 800 | Implementation| 2|[ Perfect Permutation](http://codeforces.com/contest/233/submission/86906245 "Solution")|C++|
-|44.|[Watching a movie](codeforces.com/problemset/problem/499/A  " Watching a movie")| 1000 | Implementation| 2|[ Watching a movie](Solution)|C++|
+|44.|[Watching a movie](codeforces.com/problemset/problem/499/A  " Watching a movie")| 1000 | Implementation| 2|Solution|C++|
+|45.|[Supercentral Point](https://codeforces.com/problemset/problem/165/A  " Supercentral Point")| 1000 | Implementation| 2|Solution|C++|

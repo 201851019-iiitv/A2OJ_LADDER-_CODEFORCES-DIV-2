@@ -51,3 +51,4 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |43.|[ Perfect Permutation](http://codeforces.com/problemset/problem/233/A  " Perfect Permutation")| 800 | Implementation| 2|[ Perfect Permutation](http://codeforces.com/contest/233/submission/86906245 "Solution")|C++|
 |44.|[Watching a movie](codeforces.com/problemset/problem/499/A  " Watching a movie")| 1000 | Implementation| 2|Solution|C++|
 |45.|[Supercentral Point](https://codeforces.com/problemset/problem/165/A  " Supercentral Point")| 1000 | Implementation| 2|Solution|C++|
+|46.|[Roma and Lucky Numbers](https://codeforces.com/problemset/problem/262/A " Roma and Lucky Numbers")| 800 | Implementation| 2|Solution|C++|

@@ -53,3 +53,9 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |45.|[Supercentral Point](https://codeforces.com/problemset/problem/165/A  " Supercentral Point")| 1000 | Implementation| 2|Solution|C++|
 |46.|[Roma and Lucky Numbers](https://codeforces.com/problemset/problem/262/A " Roma and Lucky Numbers")| 800 | Implementation| 2|Solution|C++|
 |47.|[Contest](https://codeforces.com/problemset/problem/501/A " Contest")| 900 | Implementation| 2|Solution|C++|
+
+
+
+
+
+Thank you!

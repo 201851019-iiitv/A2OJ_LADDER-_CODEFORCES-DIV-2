@@ -18,7 +18,7 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |10.|[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A   "Beautiful Matrix")| 800 | Implementation| 1|[Beautiful Matrix](https://codeforces.com/contest/263/submission/83226928  "Solution")|C++|
 |11.|[Arrival of the General](https://codeforces.com/problemset/problem/144/A  "Arrival of the General")| 800 | Implementation| 1|[Arrival of the General](https://codeforces.com/contest/144/submission/86282852  "Solution")|C++|
 |12.|[Game With Sticks](https://codeforces.com/problemset/problem/451/A   "Game With Sticks")| 900 | Implementation| 2|[Game With Sticks](https://codeforces.com/contest/451/submission/86313670   "Solution")|C++|
-|13.|[Games](https://codeforces.com/problemset/problem/268/A   "Games")| 800 | Brute Force| 1|Solution |C++|
+|13.|[Games](https://codeforces.com/problemset/problem/268/A   "Games")| 800 | Brute Force| 1|[Games](https://codeforces.com/contest/268/submission/86909911 "Solution")|C++|
 |14.|[Dubstep](https://codeforces.com/problemset/problem/208/A   "Dubstep")| 900 | String,Implementation| 2|[Dubstep](https://codeforces.com/contest/208/submission/86391821  "Solution")|C++|
 |15.|[Young Physicist](https://codeforces.com/problemset/problem/69/A   "Young Physicist")| 1000 | Math,Implementation| 1 |[Young Physicist](https://codeforces.com/contest/69/submission/78634117  "Solution")|C++|
 |16.|[Puzzles](https://codeforces.com/problemset/problem/337/A  "Puzzles")| 900 | Greedy | 2|Soultion|C++|

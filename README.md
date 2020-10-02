@@ -6,8 +6,8 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 
 |Q.No| Question | Rating | Tags |Difficulty| Solution | Lang|
 |------|----------|-------|-----|----|-------|------|
-|1.|[Watermelon](https://codeforces.com/problemset/problem/4/A "Watermelon")| 800 | Math , Brute Force |  1 |[Watermelon](https://codeforces.com/contest/4/submission/78621881 "Solution")| C++ |
-|2.|[Way Too Long Words](https://codeforces.com/problemset/problem/71/A "WTLW")| 800 | String| 1|[Way Too Long Words](https://codeforces.com/contest/71/submission/78622449 "Solution")|C++ |
+|1.|[Watermelon](https://codeforces.com/problemset/problem/4/A "Watermelon")| 800 | Math , Brute Force |  1 |[Watermelon](https://codeforces.com/contest/4/submission/86758167"Solution")| C++ |
+|2.|[Way Too Long Words](https://codeforces.com/problemset/problem/71/A "WTLW")| 800 | String| 1|[Way Too Long Words](https://codeforces.com/contest/71/submission/86758983"Solution")|C++ |
 |3.|[String Task](https://codeforces.com/problemset/problem/118/A "String Task")| 1000 | String,Implementation| 2|[String Task](https://codeforces.com/contest/118/submission/78622957 "Solution")|C++|
 |4.|[Petya and Strings](https://codeforces.com/problemset/problem/112/A  "Petya and Strings")| 800 | String,Implementation| 1|[Petya and Strings](https://codeforces.com/contest/112/submission/78624845  "Solution")|C++|
 |5.|[Helpful Maths](https://codeforces.com/problemset/problem/339/A   "Helpful Maths")| 800 | String,Implementation,Greedy,Sorting| 1|[Helpful Maths](https://codeforces.com/contest/339/submission/78625377   "Solution")|C++|
@@ -18,7 +18,7 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |10.|[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A   "Beautiful Matrix")| 800 | Implementation| 1|[Beautiful Matrix](https://codeforces.com/contest/263/submission/83226928  "Solution")|C++|
 |11.|[Arrival of the General](https://codeforces.com/problemset/problem/144/A  "Arrival of the General")| 800 | Implementation| 1|[Arrival of the General](https://codeforces.com/contest/144/submission/86282852  "Solution")|C++|
 |12.|[Game With Sticks](https://codeforces.com/problemset/problem/451/A   "Game With Sticks")| 900 | Implementation| 2|[Game With Sticks](https://codeforces.com/contest/451/submission/86313670   "Solution")|C++|
-|13.|[Games](https://codeforces.com/problemset/problem/268/A   "Games")| 800 | Brute Force| 1|Solution |C++|
+|13.|[Games](https://codeforces.com/problemset/problem/268/A   "Games")| 800 | Brute Force| 1|[Games](https://codeforces.com/contest/268/submission/86909911 "Solution")|C++|
 |14.|[Dubstep](https://codeforces.com/problemset/problem/208/A   "Dubstep")| 900 | String,Implementation| 2|[Dubstep](https://codeforces.com/contest/208/submission/86391821  "Solution")|C++|
 |15.|[Young Physicist](https://codeforces.com/problemset/problem/69/A   "Young Physicist")| 1000 | Math,Implementation| 1 |[Young Physicist](https://codeforces.com/contest/69/submission/78634117  "Solution")|C++|
 |16.|[Puzzles](https://codeforces.com/problemset/problem/337/A  "Puzzles")| 900 | Greedy | 2|Soultion|C++|
@@ -53,3 +53,9 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |45.|[Supercentral Point](https://codeforces.com/problemset/problem/165/A  " Supercentral Point")| 1000 | Implementation| 2|Solution|C++|
 |46.|[Roma and Lucky Numbers](https://codeforces.com/problemset/problem/262/A " Roma and Lucky Numbers")| 800 | Implementation| 2|Solution|C++|
 |47.|[Contest](https://codeforces.com/problemset/problem/501/A " Contest")| 900 | Implementation| 2|Solution|C++|
+
+
+
+
+
+Thank you!

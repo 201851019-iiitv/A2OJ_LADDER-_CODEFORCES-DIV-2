@@ -12,7 +12,7 @@ This Repo contains solution of `div2 A`    problem of `Codeforce` of  `A2OJ  `pl
 |4.|[Petya and Strings](https://codeforces.com/problemset/problem/112/A  "Petya and Strings")| 800 | String,Implementation| 1|[Petya and Strings](https://codeforces.com/contest/112/submission/78624845  "Solution")|C++|
 |5.|[Helpful Maths](https://codeforces.com/problemset/problem/339/A   "Helpful Maths")| 800 | String,Implementation,Greedy,Sorting| 1|[Helpful Maths](https://codeforces.com/contest/339/submission/78625377   "Solution")|C++|
 |6.|[Twins](https://codeforces.com/problemset/problem/160/A   "Twins ")| 900 |Greedy,Sorting | 2 |[Twins](https://codeforces.com/contest/160/submission/86276441  "Solution")|C++|
-|7.|[Chat room](https://codeforces.com/problemset/problem/58/A   "Chat room")| 1000 | String,Greedy| 2|[Chat room ](https://codeforces.com/contest/58/submission/78636269  "Solution")|C++|
+|7.|[Chat room](https://codeforces.com/problemset/problem/58/A   "Chat room")| 1000 | String,Greedy| 2|[Chat_room ](https://codeforces.com/contest/58/submission/78636269  "Solution")|C++|
 |8.|[Lucky Division](https://codeforces.com/problemset/problem/122/A  "Lucky Division")| 1000 | Number theory,Brute Force| 2|[Lucky Division](https://codeforces.com/contest/122/submission/78633363  "Solution")|C++|
 |9.|[Presents](https://codeforces.com/problemset/problem/136/A   "Presents")| 800 | Implementation| 1|[Presents](https://codeforces.com/contest/136/submission/86279325   "Solution")|C++|
 |10.|[Beautiful Matrix](https://codeforces.com/problemset/problem/263/A   "Beautiful Matrix")| 800 | Implementation| 1|[Beautiful Matrix](https://codeforces.com/contest/263/submission/83226928  "Solution")|C++|
